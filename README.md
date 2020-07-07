@@ -2,4 +2,4 @@
 https://adasilvap.github.io/Snake/
 
 # Snake
-The Snake Game in JavaScript
+A simple Snake Game in JavaScript
