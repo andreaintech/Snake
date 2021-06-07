@@ -1,7 +1,7 @@
 # Demo:
 https://adasilvap.github.io/Snake/
 
-# Snake
+# Snake :snake:
 A simple Snake Game in JavaScript
 
 
