@@ -2,4 +2,4 @@
 A simple Snake Game in JavaScript
 
 
-Updated and maintained with ❤️ by [@adasilvapdev](https://adasilvapdev.github.io/web/)
+Updated and maintained with ❤️ by [@andreaintech](https://andreaintech.github.io/web/)
